@@ -8,7 +8,7 @@ import cv2
 import time
 from numpy import save
 import pickle
-filename = "good_two_hand.sav"
+filename = "two_hand.sav"
 data1 = [] 
 loaded_model = pickle.load(open(filename, 'rb'))
 ers = ""

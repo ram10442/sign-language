@@ -9,8 +9,8 @@ import time
 import math
 hand2= []
 hand1 = []
-filename = "good1.sav"
-filename1 = "good_two_hand.sav"
+filename = "one_hand.sav"
+filename1 = "two_hand.sav"
 import pickle
 ers = " "
 loaded_model = pickle.load(open(filename, 'rb'))

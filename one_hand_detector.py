@@ -7,7 +7,7 @@ import cv2
 import time
 hand1 = []
 import math
-filename = "good1.sav"
+filename = "one_hand.sav"
 import pickle
 ers = " "
 loaded_model = pickle.load(open(filename, 'rb'))

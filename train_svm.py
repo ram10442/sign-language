@@ -60,7 +60,7 @@ print("test:",a)
 
 
 
-filename = 'good_two_hand.sav'
+filename = 'two_hand.sav'
 pickle.dump(rf, open(filename, 'wb'))
 
 print(label)

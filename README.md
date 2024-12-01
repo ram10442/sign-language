@@ -14,7 +14,7 @@ The software allows you to gather data for both one-hand and two-hand movements.
 2. **`distance_recorder_two_hand`**: Collects data for two-hand gestures.
 3. **`train_svm`**: Used to train a Support Vector Machine (SVM) model based on the collected data.
 
-Please follow the instructions and watch the test video before starting the application to ensure proper setup and usage.
+
 
 
 
